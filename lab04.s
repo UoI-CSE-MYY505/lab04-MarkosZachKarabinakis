@@ -41,6 +41,7 @@ str_ge:
 # else
 #     return 0
 
+# mia alli alagi sto assembly arxeio
 recCheck:
 #---------
 # Write the subroutine code here
